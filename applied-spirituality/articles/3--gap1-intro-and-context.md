@@ -1,3 +1,9 @@
+<!--//meta
+category: Why Spirituality
+Author: Imran
+Date: 10 Feb 2025
+//meta-->
+
 Howdy Y'all,
 
 First some introduction - in the spiritual sense.

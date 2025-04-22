@@ -1,3 +1,9 @@
+<!--//meta
+category: Why Spirituality
+Author: Imran
+Date: 10 Feb 2025
+//meta-->
+
 In the Bhagavad-Gita, we have mention of a Dharmakshetre - a field where warriors contend to work out and find their Dharma or way of life.
 
 We can leave it to scholars, teachers and intellectuals to figure out if we are "circling the drain" (heading towards an Armageddon or Pralaya) or being guided back to the light.

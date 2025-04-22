@@ -1,5 +1,7 @@
 <!--//meta
 category: Why Spirituality
+Author: Imran
+Date: 10 Feb 2025
 //meta-->
 
 "Indian religion has always felt that since the minds, the temperaments and the intellectual affinities of men are unlimited in their variety, a perfect liberty of thought and of worship must be allowed to the individual in his approach to the Infinite." - [Sri Aurobindo](https://archives.yieldmore.org/sri-aurobindo/).
