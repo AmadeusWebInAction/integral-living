@@ -2,7 +2,7 @@
 DEFINE('NODEPATH', __DIR__);
 
 variables([
-	'nodeSiteName' => 'Integral Living &rarr; Are we <span>Beings of Light???</span>',
+	'nodeSiteName' => 'Integral Living &rarr; <span>Why Now?</span>',
 	'nodeSafeName' => 'aww-integral-living',
 	'submenu-at-node' => true,
 ]);
